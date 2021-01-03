@@ -1,14 +1,14 @@
-body{
-  font-family: 'Roboto Condensed', sans-serif;
-
+body {
+  font-family: "Roboto Condensed", sans-serif;
+  margin: 0;
+  padding: 0;
 }
 
-h1  {
+h1 {
   font-size: 50px;
-  
 }
 
-.jawad-color{
+.jawad-color {
   color: orangered;
 }
 
@@ -17,9 +17,37 @@ h1  {
   float: left;
   margin-left: 5%;
   padding-left: 2%;
-
 }
 
-.half-width img{
+.half-width img {
   width: 100%;
+}
+
+.top-banner {
+  background-image: url("./images/top-banner.png");
+  background-repeat: no-repeat;
+}
+
+section {
+  height: 500px;
+}
+
+.link-button {
+  text-decoration: none;
+  background-image: linear-gradient(45deg, lightsalmon, orangered);
+  padding: 10px 20px;
+  border-radius: 5px;
+  color: #fff;
+  font-weight: 700;
+  border: 2px solid crimson;
+}
+
+.fb-page {
+  text-decoration: none;
+  background-image: linear-gradient(45deg, rgb(11, 197, 11), orangered);
+  padding: 10px 20px;
+  border-radius: 5px;
+  color: #fff;
+  font-weight: 700;
+  border: 2px solid crimson;
 }
