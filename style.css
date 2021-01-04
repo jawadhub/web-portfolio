@@ -39,15 +39,6 @@ section {
   border-radius: 5px;
   color: #fff;
   font-weight: 700;
-  border: 2px solid crimson;
+  
 }
 
-.fb-page {
-  text-decoration: none;
-  background-image: linear-gradient(45deg, rgb(11, 197, 11), orangered);
-  padding: 10px 20px;
-  border-radius: 5px;
-  color: #fff;
-  font-weight: 700;
-  border: 2px solid crimson;
-}
